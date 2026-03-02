@@ -1,13 +1,14 @@
 ### Hi 👋, I'm Nicu.
 
-**Software Developer** | 42 Heilbronn  
+**Software Developer**  
 *Currently: **graduating 42 Heilbronn** and learning **Go***
+
+Location: open to any destination on site or remote work
 
 ---
 
-Software developer and graduate of 42 Heilbronn. As a freelancer with more than 15 years of experience in both cinematography and webdevelopment.  
+As a freelancer with more than 15 years of experience in both cinematography and webdevelopment, I'm currently seeking a position as a Cloud Engineer or Full-Stack Developer.
 
-**Looking for:** Cloud Engineer or Fullstack Developer positions  
 **Date of availability:** Immediately
 
 ---
