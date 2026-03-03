@@ -62,7 +62,8 @@ Built with Ruby on Rails, PostgreSQL, schema design, migrations, TailwindCSS. Te
  Webserver (written in C++) with non-blocking I/O and asynchronous processing (event loop)
 
 ### Algorithms and File Systems and UNIX Processes
-* [**libunit**](https://github.com/nmihaile/libunit) in C
+* [**libunit**](https://github.com/nmihaile/libunit)  
+  Custom C unit testing framework with error detection and logging
 * **minishell**
 * **philosophers**
 * **push_swap**
