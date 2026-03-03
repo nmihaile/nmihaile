@@ -15,7 +15,7 @@ As a freelancer with more than 15 years of experience in both cinematography and
 
 ### Expertise
 
-* **Backend:** Ruby on Rails, RESTful Routes/APIs, Devise authentication, JWT authentication, RSpec (Testing), API-Dokumentation (Swagger), Microservices-Architektur
+* **Backend:** Ruby on Rails, RESTful Routes/APIs, Node.js, Fastify, Devise authentication, JWT authentication, RSpec (Testing), API-Dokumentation (Swagger), Microservices-Architektur
 * **Frontend:** Hotwire (Turbo + Stimulus), TailwindCSS, jQuery, React
 * **Database:** PostgreSQL, MariaDB, SQLite, schema design, migrations
 * **DevOps:** Heroku, Google App Engine, CI/CD, Git
