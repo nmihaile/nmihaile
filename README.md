@@ -58,10 +58,11 @@ Built with Ruby on Rails, PostgreSQL, schema design, migrations, TailwindCSS. Te
   * Simple static website
 
 ### Client-Server Architecture and Object-Oriented Programming
-* [**webserve**](https://github.com/upperdim/webserv) in C++
- Webserver with non-blocking I/O and asynchronous processing (event loop)
+* [**webserve**](https://github.com/upperdim/webserv)  
+ Webserver (written in C++) with non-blocking I/O and asynchronous processing (event loop)
 
 ### Algorithms and File Systems and UNIX Processes
+* [**libunit**](https://github.com/nmihaile/libunit) in C
 * **minishell**
 * **philosophers**
 * **push_swap**
