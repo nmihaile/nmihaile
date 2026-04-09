@@ -18,7 +18,7 @@ I'm currently seeking a position as a **Full-Stack Developer**.
 * **Backend:** Ruby on Rails, RESTful Routes/APIs, Node.js, Fastify, Devise authentication, JWT authentication, RSpec (Testing), API-Dokumentation (Swagger), Microservices-Architektur
 * **Frontend:** Hotwire (Turbo + Stimulus), TailwindCSS, jQuery, (React)
 * **Database:** PostgreSQL, MariaDB, SQLite, schema design, migrations
-* **DevOps:** Heroku, Google App Engine, CI/CD, Git
+* **DevOps:** Docker, Heroku, CI/CD, Git, Google App Engine
 
 ---
 
