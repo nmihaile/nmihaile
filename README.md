@@ -5,7 +5,8 @@
 
 ---
 
-As a freelancer with more than 15 years of experience in both cinematography and web-development, I'm currently seeking a position as a Full-Stack Developer.
+As a freelancer with more than 15 years of experience in both cinematography and web-development,  
+I'm currently seeking a position as a **Full-Stack Developer**.
 
 **Date of availability:** Immediately  
 **Location:** open to any destination on site or remote work
